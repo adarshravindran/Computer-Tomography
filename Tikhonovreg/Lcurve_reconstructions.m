@@ -1,4 +1,4 @@
-%% Extra Exercise sheet : Tikhonov regularization and parameter selection
+%Tikhonov regularization and parameter selection
 % Adarsh Ravindran ; UHH Student ID : 7479186
 %{
 A: L^2(0,1) -> L^2(0,1)
